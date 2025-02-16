@@ -26,7 +26,7 @@ Just start typing
         * `NOT` applies to the next term or group
         * `""` identifies phrases
         * `()` is used for grouping terms
-        * `=` is reversed for specifying fields
+        * `=` is reserved for specifying fields
         * `[]` is used for subsearches
     * You can use these operators in fairly complicated wyas
 * Using Wildcards Effectively:
