@@ -29,7 +29,7 @@ App management, Operations Management, Security & Compliance, and everything els
     * Distribute user search requests to indexers
     * consolidates results and extracts field value pairs 
     * *Knowledge Objects* on the search heads can be created to extract new fields or transform the data
-    * Provide toolds to enchance the search experience such as reports, dashsboards, and visualizations
+    * Provide tools to enchance the search experience such as reports, dashsboards, and visualizations
 * Splunk Indexer:
     * Process machine data stores results indexed as events, enabling fast search and analysis
     * creates a number of file organized in directories by age ( of compressed raw data and pointers to it )
